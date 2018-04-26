@@ -2,9 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fc37615f-45a8-43e9-af01-02c453295a21" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Method of sequential comparisons.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Methods of paired comparisons.py" afterPath="$PROJECT_DIR$/Method of paired comparisons.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Method of weighing expert assessments.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Method of paired comparisons.py" afterPath="$PROJECT_DIR$/Method of paired comparisons.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Method of sequential comparisons.py" afterPath="$PROJECT_DIR$/Method of sequential comparisons.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -14,6 +15,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/system-analysis$Method_of_weighing_expert_assessments.coverage" NAME="Method of weighing expert assessments Coverage Results" MODIFIED="1524772564640" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/system-analysis$Method_of_sequential_comparisons.coverage" NAME="Method of sequential comparisons Coverage Results" MODIFIED="1524771916897" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/system-analysis$Methods_of_paired_and_sequential_comparisons.coverage" NAME="Methods of paired and sequential comparisons Coverage Results" MODIFIED="1524771032051" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
@@ -23,11 +25,11 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Method of paired comparisons.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Method of paired comparisons.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Method of paired comparisons.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="44">
-              <caret line="2" column="38" lean-forward="false" selection-start-line="2" selection-start-column="38" selection-end-line="2" selection-end-column="38" />
+            <state relative-caret-position="88">
+              <caret line="4" column="3" lean-forward="true" selection-start-line="4" selection-start-column="3" selection-end-line="4" selection-end-column="3" />
               <folding />
             </state>
           </provider>
@@ -36,8 +38,18 @@
       <file leaf-file-name="Method of sequential comparisons.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Method of sequential comparisons.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="132">
-              <caret line="6" column="60" lean-forward="false" selection-start-line="6" selection-start-column="60" selection-end-line="6" selection-end-column="60" />
+            <state relative-caret-position="44">
+              <caret line="2" column="21" lean-forward="false" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Method of weighing expert assessments.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Method of weighing expert assessments.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="66">
+              <caret line="3" column="25" lean-forward="false" selection-start-line="3" selection-start-column="25" selection-end-line="3" selection-end-column="25" />
               <folding />
             </state>
           </provider>
@@ -62,6 +74,7 @@
         <option value="$PROJECT_DIR$/Methods of paired comparisons.py" />
         <option value="$PROJECT_DIR$/Method of sequential comparisons.py" />
         <option value="$PROJECT_DIR$/Method of paired comparisons.py" />
+        <option value="$PROJECT_DIR$/Method of weighing expert assessments.py" />
       </list>
     </option>
   </component>
@@ -117,7 +130,7 @@
     <property name="js.eslint.eslintPackage" value="" />
     <property name="js-jscs-nodeInterpreter" value="C:\Program Files\Microsoft MPI\Bin\node.exe" />
   </component>
-  <component name="RunManager" selected="Python.Method of sequential comparisons">
+  <component name="RunManager" selected="Python.Method of weighing expert assessments">
     <configuration default="false" name="Methods of paired and sequential comparisons" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -150,6 +163,24 @@
       <module name="system-analysis" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Method of sequential comparisons.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Method of weighing expert assessments" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="system-analysis" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Method of weighing expert assessments.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -362,14 +393,16 @@
       <option name="USE_KEYWORD" value="false" />
       <method />
     </configuration>
-    <list size="2">
+    <list size="3">
       <item index="0" class="java.lang.String" itemvalue="Python.Methods of paired and sequential comparisons" />
       <item index="1" class="java.lang.String" itemvalue="Python.Method of sequential comparisons" />
+      <item index="2" class="java.lang.String" itemvalue="Python.Method of weighing expert assessments" />
     </list>
     <recent_temporary>
-      <list size="2">
-        <item index="0" class="java.lang.String" itemvalue="Python.Method of sequential comparisons" />
-        <item index="1" class="java.lang.String" itemvalue="Python.Methods of paired and sequential comparisons" />
+      <list size="3">
+        <item index="0" class="java.lang.String" itemvalue="Python.Method of weighing expert assessments" />
+        <item index="1" class="java.lang.String" itemvalue="Python.Method of sequential comparisons" />
+        <item index="2" class="java.lang.String" itemvalue="Python.Methods of paired and sequential comparisons" />
       </list>
     </recent_temporary>
   </component>
@@ -423,16 +456,24 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/Method of sequential comparisons.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="6" column="60" lean-forward="false" selection-start-line="6" selection-start-column="60" selection-end-line="6" selection-end-column="60" />
+        <state relative-caret-position="44">
+          <caret line="2" column="21" lean-forward="false" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Method of paired comparisons.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="2" column="38" lean-forward="false" selection-start-line="2" selection-start-column="38" selection-end-line="2" selection-end-column="38" />
+        <state relative-caret-position="88">
+          <caret line="4" column="3" lean-forward="true" selection-start-line="4" selection-start-column="3" selection-end-line="4" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Method of weighing expert assessments.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="3" column="25" lean-forward="false" selection-start-line="3" selection-start-column="25" selection-end-line="3" selection-end-column="25" />
           <folding />
         </state>
       </provider>
