@@ -22,4 +22,5 @@ result = []
 for i in range(count_of_alternatives):
     result.append((i + 1, sum(marks[i] for marks in normalize_matrix) / count_of_experts))
 
+result.sort(key=lambda x: x[1], reverse=True)
 print(result)
